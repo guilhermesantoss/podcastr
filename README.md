@@ -1,4 +1,4 @@
-<h1 align="center">Podcastr</h1>
+<p align="center"><img src="https://raw.githubusercontent.com/guilhermesantoss/podcastr/main/public/logo.svg" alt="Logo" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/guilhermesantoss/podcastr?style=for-the-badge&color=darkblue" alt="Repository Size" />
