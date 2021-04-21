@@ -36,7 +36,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/guilhermesantoss/podcastr/main/public/home.png" alt="Logo" /></p>
 <br />
 
-O Projeto *Podcastr** foi criado durante a semana Next Level Week #5.
+O Projeto **Podcastr** foi criado durante a semana Next Level Week #5.
 
 ### Tecnologias utilizadas
 
