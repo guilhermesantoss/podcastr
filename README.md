@@ -7,6 +7,29 @@
   <img src="https://img.shields.io/github/license/guilhermesantoss/podcastr?style=for-the-badge&color=darkblue" alt="License" />
 </p>
 
+<details open="open">
+  <summary>Sumário</summary>
+  <ol>
+    <li>
+      <a href="#sobre-o-projeto">Sobre o projeto</a>
+      <ul>
+        <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#iniciando-o-projeto">Iniciando o projeto</a>
+      <ul>
+        <li><a href="#pré-requisitos">Pré-requisitos</a></li>
+        <li><a href="#instalação">Instalação</a></li>
+      </ul>
+    </li>
+    <li><a href="#abertura-de-issues">Abertura de issues</a></li>
+    <li><a href="#contribuição">Contribuição</a></li>
+    <li><a href="#licença">Licença</a></li>
+    <li><a href="#contato">Contato</a></li>
+  </ol>
+</details>
+
 ## Sobre o projeto
 
 <br />
