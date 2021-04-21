@@ -33,7 +33,7 @@
 ## Sobre o projeto
 
 <br />
-<!--<p align="center"><img src="https://raw.githubusercontent.com/guilhermesantoss/moveit/main/public/login.png" alt="Logo" /></p>-->
+<p align="center"><img src="https://raw.githubusercontent.com/guilhermesantoss/podcastr/main/public/home.png" alt="Logo" /></p>
 <br />
 
 O Projeto *Podcastr** foi criado durante a semana Next Level Week #5.
