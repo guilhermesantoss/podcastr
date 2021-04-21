@@ -62,7 +62,7 @@ Para obter uma cópia local instalada e funcionando, siga as etapas abaixo.
 
 1. Clone o repositório
    ```sh
-    git clone https://github.com/guilhermesantoss/podcastr.git
+   git clone https://github.com/guilhermesantoss/podcastr.git
    ```
 2. Instale as dependências do projeto
    ```sh
@@ -72,7 +72,15 @@ Para obter uma cópia local instalada e funcionando, siga as etapas abaixo.
    
    yarn install
    ```
-3. Execute o projeto
+3. Execute o server para poder consumir os dados da API
+   ```sh
+   npm run server
+   
+   ou
+   
+   yarn server
+   ```
+4. Execute o projeto
    ```sh
    npm run dev
    
