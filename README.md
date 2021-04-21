@@ -43,6 +43,11 @@ O Projeto **Podcastr** foi criado durante a semana Next Level Week #5.
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
 * [Typescript](https://www.typescriptlang.org)
+* [Sass](https://sass-lang.com)
+* [JSON Server](https://github.com/typicode/json-server)
+* [date-fns](https://date-fns.org)
+* [axios](https://github.com/axios/axios)
+* [Prettier](https://prettier.io/docs/en/editors.html)
 
 
 ## Iniciando o projeto
