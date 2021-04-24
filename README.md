@@ -108,6 +108,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## Contato
 
-Guilherme Santos - [@bladezika1](https://twitter.com/bladezika1) - g.santos.sfc@gmail.com
-
-Link do Projeto: [https://github.com/guilhermesantoss/podcastr](https://github.com/guilhermesantoss/podcastr)
+- [@bladezika1](https://twitter.com/bladezika1)
+- [g.santos.sfc@gmail.com](mailto:g.santos.sfc@gmail.com)
