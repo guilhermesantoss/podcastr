@@ -1,6 +1,7 @@
 {
   "name": "podcastr",
   "version": "0.1.0",
+  "author": "Guilherme Santos <g.santos.sfc@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "next dev",
