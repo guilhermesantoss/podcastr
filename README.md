@@ -67,26 +67,14 @@ Para obter uma cópia local instalada e funcionando, siga as etapas abaixo.
 2. Instale as dependências do projeto
    ```sh
    npm install
-   
-   ou
-   
-   yarn install
    ```
 3. Execute o server para poder consumir os dados da API
    ```sh
    npm run server
-   
-   ou
-   
-   yarn server
    ```
 4. Execute o projeto
    ```sh
    npm run dev
-   
-   ou
-   
-   yarn dev
    ```
 ## Abertura de issues
 
